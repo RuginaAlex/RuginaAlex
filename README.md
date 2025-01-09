@@ -27,9 +27,11 @@
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 
-<div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 0;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RuginaAlex&show_icons=true&theme=dracula&locale=en&layout=compact&include_repo=RoadRusher,Bill-s-Burger,task-management-app,itinerease,EmailApplication-OOP-Training-Project&exclude_repo=Tech-Titans-Project" alt="RuginaAlex" style="width: 48%; height: 230px;"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=RuginaAlex&show_icons=true&theme=dracula&locale=en" alt="RuginaAlex" style="width: 48%; height: 230px;"/>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; padding: 10px 0;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuginaAlex&show_icons=true&theme=dracula&locale=en&layout=compact" alt="RuginaAlex" style="width: 49%; height: 200px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=RuginaAlex&show_icons=true&theme=dracula&locale=en" alt="RuginaAlex" style="width: 49%; height: 200px;"/>
 </div>
+
+
 
 
