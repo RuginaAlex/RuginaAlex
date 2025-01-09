@@ -28,7 +28,7 @@
 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; padding: 10px 0;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuginaAlex&show_icons=true&theme=dracula&locale=en&layout=compact" alt="RuginaAlex" style="width: 49%; height: 200px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuginaAlex&show_icons=true&theme=dracula&locale=en&layout=compact&include_repo=RoadRusher,Bill-s-Burger,task-management-app,itinerease,EmailApplication-OOP-Training-Project&exclude_repo=Tech-Titans-Project" alt="RuginaAlex" style="width: 49%; height: 200px;"/>
     <img src="https://github-readme-stats.vercel.app/api?username=RuginaAlex&show_icons=true&theme=dracula&locale=en" alt="RuginaAlex" style="width: 49%; height: 200px;"/>
 </div>
 
