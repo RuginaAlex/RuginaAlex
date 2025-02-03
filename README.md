@@ -12,7 +12,7 @@
 <br> <!-- Adaugă spațiu între imagine și textul de dedesubt -->
 
 - 🌱 I’m currently learning:
-  - **100 Days of Code: The Complete Python Pro Bootcamp**
+  - <p><b>100 Days of Code: The Complete Python Pro Bootcamp</b></p>
   - **Spring Boot 3, Spring 6 & Hibernate**
 
 - 📫 How to reach me **alexrugina8@yahoo.com**
