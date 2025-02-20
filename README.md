@@ -15,7 +15,7 @@
   - <p><b>100 Days of Code: The Complete Python Pro Bootcamp</b></p>
   - **Spring Boot 3, Spring 6 & Hibernate**
  
-- 🌱 I’m currently working on these projects:
+- 👨🏻‍💻 I’m currently working on these projects:
   - <p><b>Todo app using Spring-Boot</b></p>
   - <p><b>Top Movie Website using Python and Flask</b></p>
 
